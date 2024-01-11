@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-01-11T09:41:14.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="yLWVKbnU0-Um0W29yvwK" version="22.0.3" type="device">
+  <diagram name="Page-1" id="V-vumLz2AvTZwzxgGcut">
+    <mxGraphModel dx="1134" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eHaqBNwo9-1A-v27APQq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-1" target="eHaqBNwo9-1A-v27APQq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-2" target="eHaqBNwo9-1A-v27APQq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-2" value="Hent kjøperens alder" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-3" target="eHaqBNwo9-1A-v27APQq-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="465" as="targetPoint" />
+            <mxPoint x="190" y="465.04761904761904" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-23" value="Nei" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eHaqBNwo9-1A-v27APQq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-3" target="eHaqBNwo9-1A-v27APQq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-20" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eHaqBNwo9-1A-v27APQq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-3" value="Kjøperen er 15 år &lt;br&gt;gammel eller yngre" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-9" target="eHaqBNwo9-1A-v27APQq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-21" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eHaqBNwo9-1A-v27APQq-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-9" target="eHaqBNwo9-1A-v27APQq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-22" value="Nei" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eHaqBNwo9-1A-v27APQq-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-9" value="Kjøperen er 67 år &lt;br&gt;gammel eller eldre" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-12" value="Vis at prisen&lt;br&gt;er 30 kroner" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="82" y="585" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-13" target="eHaqBNwo9-1A-v27APQq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-13" value="Vis at prisen&lt;br&gt;er 35 kroner" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="322" y="585" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-14" value="Vis at prisen&lt;br&gt;er 50 kroner" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="540" y="435" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-24" value="Stopp" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-12" target="eHaqBNwo9-1A-v27APQq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="690" />
+              <mxPoint x="380" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHaqBNwo9-1A-v27APQq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eHaqBNwo9-1A-v27APQq-14" target="eHaqBNwo9-1A-v27APQq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="598" y="690" />
+              <mxPoint x="380" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
