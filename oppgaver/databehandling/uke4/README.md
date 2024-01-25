@@ -134,7 +134,7 @@ top_30 = [
 
 </details>
 
-### Oppgave 2.11
+## Oppgave 2.11
 
 1. Kopier listen med informasjon over de 30 mest befolkede land 👇👇 inn i en python-fil og print ordboken til Argentina.
 2. Lag en for-løkke som printer navn, hovedstad og antall språk for hvert land.
