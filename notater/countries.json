@@ -1,0 +1,147 @@
+[
+    {
+      "name": "India",
+      "population": 1441719852,
+      "continent": "Asia"
+    },
+    {
+      "name": "Kina",
+      "population": 1425178782,
+      "continent": "Asia"
+    },
+    {
+      "name": "USA",
+      "population": 341814420,
+      "continent": "Nord-Amerika"
+    },
+    {
+      "name": "Indonesia",
+      "population": 279798049,
+      "continent": "Asia"
+    },
+    {
+      "name": "Pakistan",
+      "population": 245209815,
+      "continent": "Asia"
+    },
+    {
+      "name": "Nigeria",
+      "population": 229152217,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Brasil",
+      "population": 217637297,
+      "continent": "Sør-Amerika"
+    },
+    {
+      "name": "Bangladesh",
+      "population": 174701211,
+      "continent": "Asia"
+    },
+    {
+      "name": "Russland",
+      "population": 143957079,
+      "continent": "Europa"
+    },
+    {
+      "name": "Etiopia",
+      "population": 129719719,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Mexico",
+      "population": 129388467,
+      "continent": "Nord-Amerika"
+    },
+    {
+      "name": "Japan",
+      "population": 122631432,
+      "continent": "Asia"
+    },
+    {
+      "name": "Filippinene",
+      "population": 119106224,
+      "continent": "Asia"
+    },
+    {
+      "name": "Egypt",
+      "population": 114484252,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Den demokratiske republikken Kongo",
+      "population": 105625114,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Vietnam",
+      "population": 102789598,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tyrkia",
+      "population": 85678629,
+      "continent": "Asia"
+    },
+    {
+      "name": "Iran",
+      "population": 85227761,
+      "continent": "Asia"
+    },
+    {
+      "name": "Tyskland",
+      "population": 83517045,
+      "continent": "Europa"
+    },
+    {
+      "name": "Thailand",
+      "population": 69625582,
+      "continent": "Asia"
+    },
+    {
+      "name": "Storbritannia",
+      "population": 68207116,
+      "continent": "Europa"
+    },
+    {
+      "name": "Frankrike",
+      "population": 67413000,
+      "continent": "Europa"
+    },
+    {
+      "name": "Italia",
+      "population": 60461826,
+      "continent": "Europa"
+    },
+    {
+      "name": "Tanzania",
+      "population": 60316145,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Sør-Afrika",
+      "population": 59308690,
+      "continent": "Afrika"
+    },
+    {
+      "name": "Myanmar",
+      "population": 57758763,
+      "continent": "Asia"
+    },
+    {
+      "name": "Sør-Korea",
+      "population": 51983746,
+      "continent": "Asia"
+    },
+    {
+      "name": "Colombia",
+      "population": 51649698,
+      "continent": "Sør-Amerika"
+    },
+    {
+      "name": "Kenya",
+      "population": 50950879,
+      "continent": "Afrika"
+    }
+]
