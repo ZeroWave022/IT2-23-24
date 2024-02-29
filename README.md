@@ -1,2 +1,5 @@
-# IT2-23-24
-Informasjonsteknologi 2 for året 2023-2024
+# IT2: 2023-2024
+
+Informasjonsteknologi 2 for skoleåret 2023-2024
+
+[Oppgaver](./oppgaver/README.md)
