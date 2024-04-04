@@ -9,6 +9,6 @@
 
 ## Apputvikling
 
-- [Uke 7 og 9](./apputvikling/pokemon-app/main.py)
+- [Uke 7 og 9](./apputvikling/pokemon-app/README.md)
 - [Uke 11](./apputvikling/uke11/)
 - [Uke 14](./apputvikling/uke14/)
