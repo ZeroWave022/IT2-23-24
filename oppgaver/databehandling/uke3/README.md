@@ -1,12 +1,8 @@
 # Oppgaver - Databehandling
 
-For oppgave 9 til 11 i pseudokode og flytdiagram, se [uke 2](../uke2/README.md).
-
----
-
 > Oppgavene besvares i egne filer, én fil per oppgave.
 
-## Oppgave 1
+## Oppgave 2.16
 
 ### Spotify Weekly Top Songs Global
 
@@ -17,7 +13,7 @@ For oppgave 9 til 11 i pseudokode og flytdiagram, se [uke 2](../uke2/README.md).
 - Fil: [../vedlegg/spotify-weekly-top-songs-global-uke2-2023.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/spotify-weekly-top-songs-global-uke2-2023.json)
 - Tips: Se [../algoritmer.md#eksempel-2-spotify](https://github.com/thorcc/IT2-VGS-2324/blob/master/databehandling-og-algoritmer/algoritmer.md#eksempel-2-spotify)
 
-## Oppgave 2
+## Oppgave 2.17
 
 ### IMDB Topp 250
 
@@ -30,9 +26,11 @@ For oppgave 9 til 11 i pseudokode og flytdiagram, se [uke 2](../uke2/README.md).
 
 - Fil: [../vedlegg/imdb_top250.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/imdb_top250.json)
 
-## Oppgave 3: H23-11
+## Oppgave 2.20
 
 ### YouTube-statistikk
+
+> Oppgave 11 fra eksamen H23
 
 Du skal lage et program som leser inn informasjon fra et datasett og presenterer den. Last ned datasettet her:
 
@@ -46,9 +44,11 @@ a) Lag et program som finner og presenterer de ti landene i datasettet som har f
 
 b) Utvid programmet til å regne ut og presentere gjennomsnittlig antall abonnenter og videovisninger per kanal for hvert av disse landene.
 
-## Oppgave 4: V23-9
+## Oppgave 2.21
 
 ### Oversikt over apper i Google Play Store
+
+> Oppgave 9 fra eksamen V23
 
 Du skal lage et program som leser inn informasjon fra datasettet og presenterer dette i to oversikter.
 Last ned datasettet her:
