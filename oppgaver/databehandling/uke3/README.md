@@ -6,6 +6,8 @@
 
 Lag et todo-program som leser og skriver gjøremål fra/til en `.txt`-fil.
 
+Svar: Se [todo-app/main.py](./todo-app/main.py)
+
 ## Oppgave 2.16
 
 ### Spotify Weekly Top Songs Global
@@ -16,6 +18,8 @@ Lag et todo-program som leser og skriver gjøremål fra/til en `.txt`-fil.
 
 - Fil: [spotify-weekly-top-songs-global-uke2-2023.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/spotify-weekly-top-songs-global-uke2-2023.json)
 - Tips: Se [algoritmer.md#eksempel-2-spotify](https://github.com/thorcc/IT2-VGS-2324/blob/master/databehandling-og-algoritmer/algoritmer.md#eksempel-2-spotify)
+
+Svar: Se [spotify/main.py](./spotify/main.py)
 
 ## Oppgave 2.17
 
@@ -29,6 +33,8 @@ Lag et todo-program som leser og skriver gjøremål fra/til en `.txt`-fil.
    - Bonus: Alle regisørrene i regissørlistene skal telles med.
 
 - Fil: [imdb_top250.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/imdb_top250.json)
+
+Svar: Se [imdb/main.py](./imdb/main.py)
 
 ## Oppgave 2.20
 
@@ -48,6 +54,8 @@ a) Lag et program som finner og presenterer de ti landene i datasettet som har f
 
 b) Utvid programmet til å regne ut og presentere gjennomsnittlig antall abonnenter og videovisninger per kanal for hvert av disse landene.
 
+Svar: Se [youtube/main.py](./youtube/main.py)
+
 ## Oppgave 2.21
 
 ### Oversikt over apper i Google Play Store
@@ -66,3 +74,5 @@ a) Lag et program som presenterer en oversikt over de tre største kategoriene m
 Tips: For å kunne beregne gjennomsnittet av antallet installasjoner må du tilpasse innholdet i det aktuelle datafeltet. Du vil få noe uttelling om du bare viser antallet apper og gjennomsnittsratingen.
 
 b) Utvid programmet slik at det også presenterer de tre mest populære appene, målt i antall installasjoner, i hver av disse tre kategoriene.
+
+Svar: Se [playstore/main.py](./playstore/main.py)
