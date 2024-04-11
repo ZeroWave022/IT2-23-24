@@ -2,6 +2,10 @@
 
 > Oppgavene besvares i egne filer, én fil per oppgave.
 
+## Oppgave 2.15
+
+Lag et todo-program som leser og skriver gjøremål fra/til en `.txt`-fil.
+
 ## Oppgave 2.16
 
 ### Spotify Weekly Top Songs Global
@@ -10,8 +14,8 @@
 2. Hvor mange streams har Taylor Swift til sammen på sangene hennes som er på topplista?
 3. Hvilken sang gikk opp flest plasseringer fra forrige uke til denne?
 
-- Fil: [../vedlegg/spotify-weekly-top-songs-global-uke2-2023.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/spotify-weekly-top-songs-global-uke2-2023.json)
-- Tips: Se [../algoritmer.md#eksempel-2-spotify](https://github.com/thorcc/IT2-VGS-2324/blob/master/databehandling-og-algoritmer/algoritmer.md#eksempel-2-spotify)
+- Fil: [spotify-weekly-top-songs-global-uke2-2023.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/spotify-weekly-top-songs-global-uke2-2023.json)
+- Tips: Se [algoritmer.md#eksempel-2-spotify](https://github.com/thorcc/IT2-VGS-2324/blob/master/databehandling-og-algoritmer/algoritmer.md#eksempel-2-spotify)
 
 ## Oppgave 2.17
 
@@ -24,7 +28,7 @@
    - For hver film er regisørrer en liste. Her holder det med første regissør i listen.
    - Bonus: Alle regisørrene i regissørlistene skal telles med.
 
-- Fil: [../vedlegg/imdb_top250.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/imdb_top250.json)
+- Fil: [imdb_top250.json](https://raw.githubusercontent.com/thorcc/IT2-VGS-2324/master/databehandling-og-algoritmer/vedlegg/imdb_top250.json)
 
 ## Oppgave 2.20
 
