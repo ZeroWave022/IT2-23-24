@@ -63,18 +63,18 @@ class Game:
         # Løft sauen hvis spilleren kolliderer med en
         collided_sheep_index = self.player.check_collision(self.sheep)
         if collided_sheep_index != -1:
-            if self.player.holds_sheep:
+            if self.player.lifted_sheep:
                 self.game_on = False
                 return
-            self.player.hold_sheep(self.sheep[collided_sheep_index])
-            self.sheep.remove(self.player.holds_sheep)
+            self.player.lift_sheep(self.sheep[collided_sheep_index])
+            self.sheep.remove(self.player.lifted_sheep)
             self.player.change_speed(2)
 
         # Slipp sauen, øk poengsum og spawn inn nye objekter
         # når spilleren er tilbake på venstre side
-        if self.player.rect.right < 80 and self.player.holds_sheep:
+        if self.player.rect.right < 80 and self.player.lifted_sheep:
             self.player.change_speed(3)
-            self.player.holds_sheep = None
+            self.player.lifted_sheep = None
             self.player.increment_score()
             self.ghosts.append(Ghost())
             self.obstacles.append(Obstacle())

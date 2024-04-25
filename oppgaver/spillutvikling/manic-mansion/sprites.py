@@ -22,7 +22,7 @@ class Player(GameObject):
         super().__init__(rect_info)
         self.speed = 3
         self.score = 0
-        self.lifed_sheep = None
+        self.lifted_sheep = None
 
     def move(self, direction, obstacles):
         """Flytt spiller ved å spesifisere retning og eventuelle hindringer som man skal unngå.
@@ -60,7 +60,7 @@ class Player(GameObject):
 
     def lift_sheep(self, sheep):
         """Løft en sau"""
-        self.lifed_sheep = sheep
+        self.lifted_sheep = sheep
 
     def check_collision(self, sheep):
         """Sjekk kollisjon(er) med sau(er)"""
