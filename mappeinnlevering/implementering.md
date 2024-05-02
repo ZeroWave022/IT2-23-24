@@ -13,7 +13,7 @@ DONE: Lim inn lenke til github-repository som inneholder avanserte løsninger me
 
 Se GitHub-repositoryen til [TrafficEvader](https://github.com/ZeroWave022/TrafficEvader), et spill laget med pygame med en objektorientert fremgangsmåte.
 
-TODO: Ha en presentasjon der du forklarer en *avansert* kode
+DONE: Ha en presentasjon der du forklarer en *avansert* kode
 
 DONE: Lim inn lenke til besvarelse av oppgave 2.1 - 2.4 og 2.12 - 2.14
 
@@ -41,7 +41,7 @@ Gjøremål:
 DONE: Lim inn lenke til besvarelse av oppgave 3.1 - 3.12
 Se hvilke filer som svarer på de ulike oppgavene i [Pokemon-app-mappen](../oppgaver/apputvikling/pokemon-app/README.md).
 
-Done: Gjør oppgave 2.20 eller 2.21 som øving til tentamen
+DONE: Gjør oppgave 2.20 eller 2.21 som øving til tentamen
 Se [besvarelsen](../oppgaver/databehandling/uke3/README.md) fra uke 3 til større oppgaver som de to nevnte.
 
 ## Vern mot kjøretidsfeil og logiske feil i programmer

@@ -19,7 +19,7 @@ Gjøremål:
 
 - Ha en presentasjon der du begrunner valg som er gjort i et prosjekt og vurderer alternative løsninger
 
-TODO: Hold presentasjon der du presnterer ett eller flere prosjekter
+DONE: Hold presentasjon der du presnterer ett eller flere prosjekter
 
 ## Objektorienterte programmer med klasser, arv og objekter
 

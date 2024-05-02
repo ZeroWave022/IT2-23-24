@@ -24,4 +24,4 @@ Gjøremål:
 
 - Ha en presentasjon der du vurderer brukervennlighet i et spill/applikasjon og foreslår hensiktsmessige forbedringer
 
-TODO: Hold presentasjon der du presenterer ett eller flere prosjekter
+DONE: Hold presentasjon der du presenterer ett eller flere prosjekter

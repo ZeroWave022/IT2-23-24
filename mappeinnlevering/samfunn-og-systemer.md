@@ -25,7 +25,13 @@ Gjøremål:
 - Beskriv tilbakemeldingen og gi en beskrivelse av brukeren som har gitt tilbakemeldingen.
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
 
-TODO: Skriv minst tre tilbakemeldinger her
+DONE: Skriv minst tre tilbakemeldinger her
+
+| Prosjekt      | Person     | Tilbakemelding                      | Reaksjon                                                                                             |
+| ------------- | ---------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| TrafficEvader | Elev (18)  | Jeg vil kjøre en annen bil.         | La til mulighet til å velge andre biler som man kan kjøre.                                           |
+| TrafficEvader | Lærer (33) | Spillet er sakte i starten.         | Økte farten i starten av spillet.                                                                    |
+| TrafficEvader | Elev (18)  | Det skjer lite når spillet er over. | La til en animasjon av en eksplosjon når spillet er over, altså når spilleren kræsjer i en hindring. |
 
 ### Eksempler på tilbakemeldinger
 
